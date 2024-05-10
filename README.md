@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Faizan Mirza</h1>
 <h3 align="center">"The world operates on data, and in turn, data orchestrates the world."</h3>
-<img src="https://www.caxsol.com/assets/img/data-analysis.gif"width="400" alt="Analyzing">
+<img src="https://www.caxsol.com/assets/img/data-analysis.gif" align="right" width="400" alt="Analyzing">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faizanmirza711&label=Profile%20views&color=0e75b6&style=flat" alt="faizanmirza711" /> </p>
 
 - 🔭 I’m currently working on [Stress Analysis](https://github.com/FaizanMirza711/IOT-based-Stress-Analysis)
