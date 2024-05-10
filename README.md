@@ -1,3 +1,4 @@
+![logo](https://github.com/FaizanMirza711/FaizanMirza711/blob/main/croped.png)
 <h1 align="center">Hi 👋, I'm Faizan Mirza</h1>
 <h3 align="center">"The world operates on data, and in turn, data orchestrates the world."</h3>
 <img src="https://www.caxsol.com/assets/img/data-analysis.gif" align="right" width="400" alt="Analyzing">
